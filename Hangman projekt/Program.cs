@@ -5,5 +5,6 @@
         Console.WriteLine("Hello, World!");
 
         // En kommentar
+        // En tydligare kommentar
     }
 }
