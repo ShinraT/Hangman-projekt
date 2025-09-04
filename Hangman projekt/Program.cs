@@ -3,7 +3,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
 
         // *** game state init ***
         int nbrLives = 5;
